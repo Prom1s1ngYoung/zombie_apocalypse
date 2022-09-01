@@ -1,0 +1,27 @@
+[INFO ] 2022-09-01 17:38:35.798 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 0 moved to (3, 1).
+[INFO ] 2022-09-01 17:38:35.800 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 0 infected creature at (3, 1).
+[INFO ] 2022-09-01 17:38:35.800 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 0 moved to (3, 2).
+[INFO ] 2022-09-01 17:38:35.800 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 1 moved to (4, 1).
+[INFO ] 2022-09-01 17:38:35.800 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 1 infected creature at (4, 1).
+[INFO ] 2022-09-01 17:38:35.800 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 1 moved to (4, 2).
+[INFO ] 2022-09-01 17:38:35.800 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 2 moved to (5, 1).
+[INFO ] 2022-09-01 17:38:35.801 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 2 infected creature at (5, 1).
+[INFO ] 2022-09-01 17:38:35.801 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 2 moved to (5, 2).
+[INFO ] 2022-09-01 17:38:35.801 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 3 moved to (6, 1).
+[INFO ] 2022-09-01 17:38:35.801 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 3 infected creature at (6, 1).
+[INFO ] 2022-09-01 17:38:35.801 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 3 moved to (6, 2).
+[INFO ] 2022-09-01 17:38:35.801 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 4 moved to (7, 1).
+[INFO ] 2022-09-01 17:38:35.801 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 4 infected creature at (7, 1).
+[INFO ] 2022-09-01 17:38:35.801 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 4 moved to (7, 2).
+[INFO ] 2022-09-01 17:38:35.801 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 5 moved to (8, 1).
+[INFO ] 2022-09-01 17:38:35.801 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 5 infected creature at (8, 1).
+[INFO ] 2022-09-01 17:38:35.802 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 5 moved to (8, 2).
+[INFO ] 2022-09-01 17:38:35.802 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 6 moved to (9, 1).
+[INFO ] 2022-09-01 17:38:35.802 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 6 infected creature at (9, 1).
+[INFO ] 2022-09-01 17:38:35.802 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 6 moved to (9, 2).
+[INFO ] 2022-09-01 17:38:35.802 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 7 moved to (0, 1).
+[INFO ] 2022-09-01 17:38:35.802 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 7 infected creature at (0, 1).
+[INFO ] 2022-09-01 17:38:35.802 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 7 moved to (0, 2).
+[INFO ] 2022-09-01 17:38:35.802 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 8 moved to (1, 1).
+[INFO ] 2022-09-01 17:38:35.802 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove Zombie 8 moved to (1, 2).
+[INFO ] 2022-09-01 17:38:35.802 com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl zombieStartMove =============================
