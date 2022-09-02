@@ -53,22 +53,22 @@
     </appender>-->
 
     <!--日志拆分-->
-    <appender name="rollAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
-        <!--输入格式-->
+    <!--<appender name="rollAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        &lt;!&ndash;输入格式&ndash;&gt;
         <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
             <pattern>${pattern}</pattern>
         </encoder>
-        <!--引入文件位置-->
+        &lt;!&ndash;引入文件位置&ndash;&gt;
         <file>${logDir}/roll_logback.log</file>
 
-        <!--指定拆分规则-->
+        &lt;!&ndash;指定拆分规则&ndash;&gt;
         <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
-            <!--按照时间和压缩格式声明文件名 压缩格式gz-->
+            &lt;!&ndash;按照时间和压缩格式声明文件名 压缩格式gz&ndash;&gt;
             <fileNamePattern>${logDir}/roll.%d{yyyy-MM-dd}.log%i.gz}</fileNamePattern>
-            <!--按照文件大小进行拆分-->
+            &lt;!&ndash;按照文件大小进行拆分&ndash;&gt;
             <maxFileSize>1024KB</maxFileSize>
         </rollingPolicy>
-    </appender>
+    </appender>-->
     <!--日志记录器
         配置root logger
         level：配置日志级别
@@ -78,7 +78,7 @@
         <appender-ref ref="fileAppender"/>
     </root>-->
     <logger name="com.example.zombie_apocalypse.service.impl.ApocalypseServiceImpl" level="info" additivity="false">
-        <appender-ref ref="rollAppender"/>
+        <!--<appender-ref ref="rollAppender"/>-->
         <appender-ref ref="consoleAppender"/>
     </logger>
 </configuration>
